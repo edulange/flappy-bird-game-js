@@ -141,7 +141,7 @@ function criaFlappyBird(){  // colocamos o flappybird dentro de uma função pq 
             flappyBird.velocidade = - flappyBird.pulo; // cara sensasional, oq foi feito aqui? como a velocidade é uma constante que fica aumentando o eixo Y, o pular nada mais é que tirar y na negativo, entendeu? outra explicação seria, gravidade y pra baixo, o pular é y para cima
             // console.log('[depois]', flappyBird.velocidade);
         },
-        gravidade: 0.20,
+        gravidade: 0.25,
         atualiza() {
             if(fazColisao(flappyBird, globais.chao)) {
                 // console.log("fez colisão");
