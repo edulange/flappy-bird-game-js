@@ -8,7 +8,7 @@
 
 <h2>Demo</h2>
 
-<p>You can play the game online by visiting the live demo <a href="https://edugod.github.io/flappy-bird-game-js/">here</a>.</p>
+<p>You can play the game online by visiting the live demo <a href="https://edugod.github.io/flappy-bird-game-js/" target="_blank">here</a>.</p>
 
 <h2>Video Tutorial</h2>
 
